@@ -1,0 +1,36 @@
+C:\Users\John Bosco\Desktop\proyectos C\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe.config
+C:\Users\John Bosco\Desktop\proyectos C\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe
+C:\Users\John Bosco\Desktop\proyectos C\InventorySystem\InventorySystem\bin\Debug\InventorySystem.pdb
+C:\Users\John Bosco\Desktop\proyectos C\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csprojResolveAssemblyReference.cache
+C:\Users\John Bosco\Desktop\proyectos C\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Form1.resources
+C:\Users\John Bosco\Desktop\proyectos C\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Properties.Resources.resources
+C:\Users\John Bosco\Desktop\proyectos C\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.GenerateResource.Cache
+C:\Users\John Bosco\Desktop\proyectos C\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\John Bosco\Desktop\proyectos C\InventorySystem\InventorySystem\obj\Debug\InventorySystem.exe
+C:\Users\John Bosco\Desktop\proyectos C\InventorySystem\InventorySystem\obj\Debug\InventorySystem.pdb
+C:\Users\danie\source\repos\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe.config
+C:\Users\danie\source\repos\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe
+C:\Users\danie\source\repos\InventorySystem\InventorySystem\bin\Debug\InventorySystem.pdb
+C:\Users\danie\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csprojResolveAssemblyReference.cache
+C:\Users\danie\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Form1.resources
+C:\Users\danie\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Properties.Resources.resources
+C:\Users\danie\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.GenerateResource.Cache
+C:\Users\danie\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.exe
+C:\Users\danie\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.pdb
+C:\Users\danie\source\repos\InventorySystem\InventorySystem\bin\Debug\MySql.Data.dll
+C:\Users\danie\source\repos\InventorySystem\InventorySystem\bin\Debug\Google.Protobuf.dll
+C:\Users\danie\source\repos\InventorySystem\InventorySystem\bin\Debug\MySql.Data.xml
+C:\Users\danie\source\repos\InventorySystem\InventorySystem\bin\Debug\Mylibrary.dll
+C:\Users\danie\source\repos\InventorySystem\InventorySystem\bin\Debug\Mylibrary.pdb
+C:\Users\danie\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Form2.resources
+C:\Users\danie\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Form4.resources
+C:\Users\danie\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Form3.resources
+C:\Users\danie\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Form5.resources
+C:\Users\danie\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Form6.resources
+C:\Users\danie\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Form7.resources
+C:\Users\danie\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Form8.resources
+C:\Users\danie\source\repos\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe.manifest
+C:\Users\danie\source\repos\InventorySystem\InventorySystem\bin\Debug\InventorySystem.application
+C:\Users\danie\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.exe.manifest
+C:\Users\danie\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.application

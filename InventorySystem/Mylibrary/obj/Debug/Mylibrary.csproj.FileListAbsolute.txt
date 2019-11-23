@@ -1,0 +1,6 @@
+C:\Users\danie\source\repos\InventorySystem\Mylibrary\bin\Debug\Mylibrary.dll
+C:\Users\danie\source\repos\InventorySystem\Mylibrary\bin\Debug\Mylibrary.pdb
+C:\Users\danie\source\repos\InventorySystem\Mylibrary\obj\Debug\Mylibrary.csprojResolveAssemblyReference.cache
+C:\Users\danie\source\repos\InventorySystem\Mylibrary\obj\Debug\Mylibrary.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\InventorySystem\Mylibrary\obj\Debug\Mylibrary.dll
+C:\Users\danie\source\repos\InventorySystem\Mylibrary\obj\Debug\Mylibrary.pdb
