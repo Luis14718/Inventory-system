@@ -4,7 +4,8 @@ How to use?
 ______________________________________________________________
 -Install visual estudio and Micorsoft Sql 
 -Then run the scrypt of Microsoft Sql
--Look for 
+-Look for InventorySystem.sln
+-execute
 
 
 Skills
